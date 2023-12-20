@@ -2,7 +2,7 @@ import telebot
 
 n = 0
 
-token = '6629484918:AAFcOI22QsRk9nFwlZC1euNGtItL0IFBqZk'
+token = ''
 bot = telebot.TeleBot(token)
 
 
